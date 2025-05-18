@@ -54,23 +54,23 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * **Home page** 
 <img src="Home_page.png" width="400" alt="App Screenshot">
 Shows all the artists that I selected
-
+<br/>
 * **Rate update & animation** 
 <img src="card_animation.png" width="400" alt="App Screenshot">
 Demonstrates rating feature
-
+<br/>
 * **Song rating** 
 <img src="song_rating.png" width="400" alt="App Screenshot">
 Shows songs rating's design
-
+<br/>
 * **Rating verification** 
 <img src="full_rating_verification.png" width="400" alt="App Screenshot">
 You must assign a star and comment rating before proceeding
-
+<br/>
 * **Redirecting to Spotify** <br/>
 <img src="song_rating.png" width="150" alt="App Screenshot">             <img src="Spotify_redirect.png" width="500" alt="App Screenshot"> <br/>
 Spotify's icon in top right corner redirects you to listen the selected song in Spotify
-
+<br/>
 * **Moderator's page** 
 <img src="Admin_delete.png" width="400" alt="App Screenshot">
 Also known as admin's page, here moderators can delete any inappropiate ratings.
