@@ -1,0 +1,771 @@
+[         {  
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+              },
+              "href": "https://api.spotify.com/v1/albums/0ZyaO9oGhq7blYJzo3l65t",
+              "id": "0ZyaO9oGhq7blYJzo3l65t",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e029ed6b04a8fe894a9204630f6",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048519ed6b04a8fe894a9204630f6",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Cavetown",
+              "release_date": "2015-11-09",
+              "release_date_precision": "day",
+              "total_tracks": 8,
+              "type": "album",
+              "uri": "spotify:album:0ZyaO9oGhq7blYJzo3l65t"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 179955,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "TCADM1818860"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0vf2eBw2inhl8y61cYQMv2",
+          "id": "0vf2eBw2inhl8y61cYQMv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Devil Town",
+          "popularity": 77,
+          "preview_url": "https://p.scdn.co/mp3-preview/53c0dac3cd40e29fb0b9b6a22f03879a744f7105?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:0vf2eBw2inhl8y61cYQMv2"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+              },
+              "href": "https://api.spotify.com/v1/albums/40MJoESOQ4BDr5Y6jY7cFa",
+              "id": "40MJoESOQ4BDr5Y6jY7cFa",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0217add53ee7ef16ac10e6f8a9",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485117add53ee7ef16ac10e6f8a9",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Animal Kingdom",
+              "release_date": "2019-04-12",
+              "release_date_precision": "day",
+              "total_tracks": 10,
+              "type": "album",
+              "uri": "spotify:album:40MJoESOQ4BDr5Y6jY7cFa"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 278991,
+          "explicit": true,
+          "external_ids": {
+              "isrc": "USHM91882113"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
+          },
+          "href": "https://api.spotify.com/v1/tracks/45ROR8UMn60YEVQnDy0uVF",
+          "id": "45ROR8UMn60YEVQnDy0uVF",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Juliet",
+          "popularity": 76,
+          "preview_url": "https://p.scdn.co/mp3-preview/b40088e65a96ab290ceedf8450e89c161d788017?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:45ROR8UMn60YEVQnDy0uVF"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+              },
+              "href": "https://api.spotify.com/v1/albums/40MJoESOQ4BDr5Y6jY7cFa",
+              "id": "40MJoESOQ4BDr5Y6jY7cFa",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0217add53ee7ef16ac10e6f8a9",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485117add53ee7ef16ac10e6f8a9",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Animal Kingdom",
+              "release_date": "2019-04-12",
+              "release_date_precision": "day",
+              "total_tracks": 10,
+              "type": "album",
+              "uri": "spotify:album:40MJoESOQ4BDr5Y6jY7cFa"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 329049,
+          "explicit": true,
+          "external_ids": {
+              "isrc": "USL4Q1849675"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6suYoN4gFkanqOBn5yRnJC",
+          "id": "6suYoN4gFkanqOBn5yRnJC",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Boys Will Be Bugs",
+          "popularity": 72,
+          "preview_url": "https://p.scdn.co/mp3-preview/a79b872605799b83c0d8201448dcb43bc5e0e5f9?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:6suYoN4gFkanqOBn5yRnJC"
+      },
+      {
+          "album": {
+              "album_type": "single",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+              },
+              "href": "https://api.spotify.com/v1/albums/0eB1tOktFK5AtA9YBYSXRu",
+              "id": "0eB1tOktFK5AtA9YBYSXRu",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2731b480ca9f06eab8c0cd5bd6f",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e021b480ca9f06eab8c0cd5bd6f",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048511b480ca9f06eab8c0cd5bd6f",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "This Is Home",
+              "release_date": "2015-08-03",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:0eB1tOktFK5AtA9YBYSXRu"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226073,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "TCADM1818849"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7s8VgA8OjvwBUuigKzEGBx",
+          "id": "7s8VgA8OjvwBUuigKzEGBx",
+          "is_local": false,
+          "is_playable": true,
+          "name": "This Is Home",
+          "popularity": 72,
+          "preview_url": "https://p.scdn.co/mp3-preview/178def42f937d59033eef2fd5df651e3fb3c8bff?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:7s8VgA8OjvwBUuigKzEGBx"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+              },
+              "href": "https://api.spotify.com/v1/albums/0ZyaO9oGhq7blYJzo3l65t",
+              "id": "0ZyaO9oGhq7blYJzo3l65t",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e029ed6b04a8fe894a9204630f6",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048519ed6b04a8fe894a9204630f6",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Cavetown",
+              "release_date": "2015-11-09",
+              "release_date_precision": "day",
+              "total_tracks": 8,
+              "type": "album",
+              "uri": "spotify:album:0ZyaO9oGhq7blYJzo3l65t"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 265010,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "TCADM1818853"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6A2itXgDf96XHp9qR6oyPN",
+          "id": "6A2itXgDf96XHp9qR6oyPN",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Meteor Shower",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/bc819d8960953885c94b6cf99c9097f9bbd4162d?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6A2itXgDf96XHp9qR6oyPN"
+      },
+      {
+          "album": {
+              "album_type": "single",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg"
+              },
+              "href": "https://api.spotify.com/v1/albums/1VsBid0LZVPoNokDiJqROg",
+              "id": "1VsBid0LZVPoNokDiJqROg",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27361199c081c2c5fac6c44e83e",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0261199c081c2c5fac6c44e83e",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485161199c081c2c5fac6c44e83e",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Home",
+              "release_date": "2019-06-07",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:1VsBid0LZVPoNokDiJqROg"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 269897,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "USWB11900788"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3XRALl9CNCnjjbCZid2L9w",
+          "id": "3XRALl9CNCnjjbCZid2L9w",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Home",
+          "popularity": 68,
+          "preview_url": "https://p.scdn.co/mp3-preview/cb3a6ba34944a3627bf7e093ad0c2fab1f538ab5?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3XRALl9CNCnjjbCZid2L9w"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+              },
+              "href": "https://api.spotify.com/v1/albums/5rvA7Pth9X8PFp5jHqFl3V",
+              "id": "5rvA7Pth9X8PFp5jHqFl3V",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02a29186e92ad38b89ae1611ea",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851a29186e92ad38b89ae1611ea",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Lemon Boy",
+              "release_date": "2018-01-01",
+              "release_date_precision": "day",
+              "total_tracks": 13,
+              "type": "album",
+              "uri": "spotify:album:5rvA7Pth9X8PFp5jHqFl3V"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 272902,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "USCGH1805100"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3Yvk0ZLxMlt6ioasvdN6vB",
+          "id": "3Yvk0ZLxMlt6ioasvdN6vB",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Lemon Boy",
+          "popularity": 67,
+          "preview_url": "https://p.scdn.co/mp3-preview/1afca0db8b7b83784384b3086e7f216d4dbfae0b?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3Yvk0ZLxMlt6ioasvdN6vB"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+              },
+              "href": "https://api.spotify.com/v1/albums/5rvA7Pth9X8PFp5jHqFl3V",
+              "id": "5rvA7Pth9X8PFp5jHqFl3V",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02a29186e92ad38b89ae1611ea",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851a29186e92ad38b89ae1611ea",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Lemon Boy",
+              "release_date": "2018-01-01",
+              "release_date_precision": "day",
+              "total_tracks": 13,
+              "type": "album",
+              "uri": "spotify:album:5rvA7Pth9X8PFp5jHqFl3V"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 233785,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "USCGH1805103"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7asyVbwQE7IbA3x2be7bdI",
+          "id": "7asyVbwQE7IbA3x2be7bdI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Fool",
+          "popularity": 66,
+          "preview_url": "https://p.scdn.co/mp3-preview/a9f92deedcaeb5993a43000e204e7241cf548037?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:7asyVbwQE7IbA3x2be7bdI"
+      },
+      {
+          "album": {
+              "album_type": "album",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+              },
+              "href": "https://api.spotify.com/v1/albums/6l8EXrFMXWeHaEutYhwl98",
+              "id": "6l8EXrFMXWeHaEutYhwl98",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e029aff38f63984dd93cd1d750b",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048519aff38f63984dd93cd1d750b",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Sleepyhead",
+              "release_date": "2020-03-27",
+              "release_date_precision": "day",
+              "total_tracks": 11,
+              "type": "album",
+              "uri": "spotify:album:6l8EXrFMXWeHaEutYhwl98"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 246250,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "USWB11903458"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6TCmU4U7Ooqep96bnYx5lH",
+          "id": "6TCmU4U7Ooqep96bnYx5lH",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Sweet Tooth",
+          "popularity": 63,
+          "preview_url": "https://p.scdn.co/mp3-preview/dfd12f29b5949b29cd5ed01806769c01169395f9?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6TCmU4U7Ooqep96bnYx5lH"
+      },
+      {
+          "album": {
+              "album_type": "single",
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                      },
+                      "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                      "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                      "name": "Cavetown",
+                      "type": "artist",
+                      "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+                  }
+              ],
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/album/39M1dSHwZxHyPwOb0bRuJU"
+              },
+              "href": "https://api.spotify.com/v1/albums/39M1dSHwZxHyPwOb0bRuJU",
+              "id": "39M1dSHwZxHyPwOb0bRuJU",
+              "images": [
+                  {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2731bf45d47ebe7291c580309ed",
+                      "width": 640
+                  },
+                  {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e021bf45d47ebe7291c580309ed",
+                      "width": 300
+                  },
+                  {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048511bf45d47ebe7291c580309ed",
+                      "width": 64
+                  }
+              ],
+              "is_playable": true,
+              "name": "Dear.",
+              "release_date": "2018-06-29",
+              "release_date_precision": "day",
+              "total_tracks": 4,
+              "type": "album",
+              "uri": "spotify:album:39M1dSHwZxHyPwOb0bRuJU"
+          },
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2hR4h1Cao2ueuI7Cx9c7V8",
+                  "id": "2hR4h1Cao2ueuI7Cx9c7V8",
+                  "name": "Cavetown",
+                  "type": "artist",
+                  "uri": "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8"
+              }
+          ],
+          "disc_number": 1,
+          "duration_ms": 277327,
+          "explicit": false,
+          "external_ids": {
+              "isrc": "USHM21846071"
+          },
+          "external_urls": {
+              "spotify": "https://open.spotify.com/track/3znD2JTezT8ZLkp2pmft2l"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3znD2JTezT8ZLkp2pmft2l",
+          "id": "3znD2JTezT8ZLkp2pmft2l",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Talk to Me",
+          "popularity": 62,
+          "preview_url": "https://p.scdn.co/mp3-preview/7ca16f1a0dcc4abdbfb7a252edcc1eb6f07d060d?cid=a91afece91fd468cabafc82c96f03c8b",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:3znD2JTezT8ZLkp2pmft2l"
+        }
+]

@@ -1,0 +1,1 @@
+export const createArray = length => [...Array(5)]

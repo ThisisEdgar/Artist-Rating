@@ -1,0 +1,162 @@
+body {
+    font-family: 'San Francisco', 'Roboto', sans-serif;
+    background-color: #F2F2F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+}
+
+.album-container {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    position: relative;
+}
+
+.overlay-image {
+    position: absolute;
+    top: 2.3em;
+    right: 2em;
+    width: 8%;
+    height: auto;
+    z-index: 1; 
+}
+/*
+.album-art {
+    width: 100%;
+    height: auto;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.album-art img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+*/
+.album-art {
+    width: 100%;
+    height: auto;
+
+    position: relative;
+}
+
+.album-art img {
+    width: 100%;
+    height:15em;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.album-art::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+}
+.album-info {
+    margin-top: 24px;
+    text-align: center;
+}
+
+.album-info h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #171717;
+    margin-bottom: 8px;
+}
+
+.album-info p {
+    font-size: 14px;
+    color: #6C6C6C;
+    margin-bottom: 4px;
+}
+
+.album-info p span {
+    color: #171717;
+}
+
+
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #F2F2F2;
+    font-size: 16px;
+    resize: none;
+}
+
+button {
+  color: white;
+    background-color: #1DB954;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-style: solid;
+    border-color:  #1DB954;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: white;
+    color:  #1DB954;
+}
+.deleteRow {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+    margin-bottom: 10px;
+   }
+   
+   .text {
+    flex: 1;
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+   }
+   
+   .delete {
+    flex: 0 0 auto;
+    padding: 0;
+    width: 60px;
+    height: 30px;
+    margin-left: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #ff3b30;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   }
+   
+   .delete:hover {
+    background-color: #ff1f00;
+    color:white;
+   } 
