@@ -48,8 +48,7 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * ✅ Leave comments and star ratings
 * ✅ Admin panel to moderate content
 * ✅ Responsive UI with smooth hover effects
-* ⚠️ Basic testing in place – more tests encouraged
-* ⚠️ Minimal in-app error feedback (currently console-based)
+* ⚠️ Basic testing in place 
 
 
 
