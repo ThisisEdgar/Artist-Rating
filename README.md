@@ -51,34 +51,47 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * ⚠️ Basic testing in place 
 
 ## Demo
-* **Home page** 
-<img src="Home_page.png" width="400" alt="App Screenshot">
-Shows all the artists that I selected
 
+### **Home Page**
+![Home Page](Home_page.png)
 
-* **Rate update & animation** 
-<img src="card_animation.png" width="400" alt="App Screenshot">
-Demonstrates rating feature
+Displays all the artists selected in the app.
 
+---
 
-* **Song rating** 
-<img src="song_rating.png" width="400" alt="App Screenshot">
-Shows songs rating's design
+### **Rate Update & Animation**
+![Rate Animation](card_animation.png)
 
+Demonstrates the animated rating effect when interacting with artist cards.
 
-* **Rating verification** 
-<img src="full_rating_verification.png" width="400" alt="App Screenshot">
-You must assign a star and comment rating before proceeding
+---
 
+### **Song Rating**
+![Song Rating](song_rating.png)
 
-* **Redirecting to Spotify** <br/>
-<img src="song_rating.png" width="150" alt="App Screenshot">             <img src="Spotify_redirect.png" width="500" alt="App Screenshot"> <br/>
-Spotify's icon in top right corner redirects you to listen the selected song in Spotify
+Shows the song rating layout and design, where users can assign star ratings and write comments.
 
+---
 
-* **Moderator's page** 
-<img src="Admin_delete.png" width="400" alt="App Screenshot">
-Also known as admin's page, here moderators can delete any inappropiate ratings.
+### **Rating Verification**
+![Rating Verification](full_rating_verification.png)
+
+Users must provide both a star rating and a comment before submitting. This ensures complete feedback.
+
+---
+
+### **Redirecting to Spotify**
+
+![Spotify Icon](song_rating.png) ![Spotify Redirect](Spotify_redirect.png)
+
+The Spotify icon in the top-right corner lets users open the selected song directly on Spotify.
+
+---
+
+### **Moderator's Page**
+![Admin Page](Admin_delete.png)
+
+Also known as the admin panel, where moderators can delete inappropriate or unwanted ratings.
 
 
 
