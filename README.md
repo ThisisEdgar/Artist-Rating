@@ -50,6 +50,26 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * ✅ Responsive UI with smooth hover effects
 * ⚠️ Basic testing in place 
 
+## Demo
+* **Home page** Shows all the artists that I selected
+<img src="Home_page.png" width="400" alt="App Screenshot">
+
+* **Rate update & animation** Demonstrates rating feature
+<img src="card_animation.png" width="400" alt="App Screenshot">
+
+* **Song rating** Shows song rating's design
+<img src="song_rating.png" width="400" alt="App Screenshot">
+
+* **Rating verification** You must assign a star and comment rating before proceeding
+<img src="full_rating_verification.png" width="400" alt="App Screenshot">
+
+* **Redirecting to Spotify** Spotify's icon in top right corner redirects you to listen the selected song in Spotify
+<img src="Spotify_redirect.png" width="400" alt="App Screenshot">
+
+* **Moderator's page** Also known as admin's page, here moderators can delete any inappropiate ratings.
+<img src="Admin_delete.png" width="400" alt="App Screenshot">
+
+
 
 
 ## 🛠 Notable Files
@@ -80,16 +100,6 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * Flexible and reusable components (like StarRating)
 * Thoughtful visual UI (hover scale effects)
 
-### To Improve
-
-* Replace `GET` with `POST` for comment submissions
-* Add form validation (`trim()` comments, ensure rating > 0)
-* Expand unit and integration tests (e.g., StarRating, routing)
-* Use `useRef` or controlled components instead of `getElementById`
-* Improve error handling with in-app messages or alerts
-* Consider internationalization support (some English/Spanish mixed currently)
-
-
 
 ## Want to Contribute?
 
@@ -112,7 +122,7 @@ Make sure your local backend (on `localhost:5000`) is running and, if needed, is
 
 ## In summary
 
-**Artist Rating** combines interactive UI with real music data to create a full-stack app that’s both useful and fun. It’s an ideal playground for learning React, practicing API integration, and getting your hands dirty with real-world architecture.
+**Artist Rating** combines interactive UI with real music data to create a full-stack app that’s both useful and fun. It’s an ideal playground for learning React, practicing API integration, and getting my hands dirty with real-world architecture.
 
 > *“Built with React. Powered by Spotify. Rated by music lovers.”*
 
