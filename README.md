@@ -67,8 +67,8 @@ Shows songs rating's design
 <img src="full_rating_verification.png" width="400" alt="App Screenshot">
 You must assign a star and comment rating before proceeding
 
-* **Redirecting to Spotify** 
-<img src="song_rating.png" width="100" alt="App Screenshot">             <img src="Spotify_redirect.png" width="400" alt="App Screenshot">
+* **Redirecting to Spotify** <br/>
+<img src="song_rating.png" width="150" alt="App Screenshot">             <img src="Spotify_redirect.png" width="400" alt="App Screenshot">
 Spotify's icon in top right corner redirects you to listen the selected song in Spotify
 
 * **Moderator's page** 
