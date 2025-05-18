@@ -96,7 +96,6 @@ Also known as admin's page, here moderators can delete any inappropiate ratings.
       └── songTest.test.js  # Our humble start to testing
 ```
 
-<img src="Spotify_redirect.png" width="400" alt="App Screenshot">
 
 ### Strengths
 
