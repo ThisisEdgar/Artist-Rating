@@ -51,6 +51,7 @@ React's `useEffect`, state management, and props keep everything clean, modular,
 * ⚠️ Basic testing in place 
 
 ## Demo
+Watch the full demo here: [Spotify Web API using React demo]([https://example.com](https://drive.google.com/file/d/1ePWM0EKwf3alYEotBcp3JapRQUbiazed/view?usp=sharing))
 
 ### **Home Page**
 ![Home Page](Home_page.png)
