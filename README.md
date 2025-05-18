@@ -71,7 +71,7 @@ React's `useEffect`, state management, and props keep everything clean, modular,
       └── songTest.test.js  # Our humble start to testing
 ```
 
-
+<img src="Spotify_redirect.png" width="400" alt="App Screenshot">
 
 ### Strengths
 
